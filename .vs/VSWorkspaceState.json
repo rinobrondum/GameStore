@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameStore.Frontend",
+    "\\GameStore.Frontend\\Clients",
+    "\\GameStore.Frontend\\Components",
+    "\\GameStore.Frontend\\Components\\Pages",
+    "\\GameStore.Frontend\\Models"
+  ],
+  "SelectedNode": "\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+  "PreviewInSolutionExplorer": false
+}
